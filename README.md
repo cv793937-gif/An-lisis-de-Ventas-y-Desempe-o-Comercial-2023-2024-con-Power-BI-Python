@@ -1,4 +1,4 @@
-# 📊 Análisis de Ventas y Desempeño Comercial 2023–2024 con Power BI + Python
+# 📊 Análisis de Ventas y Desempeño Comercial 2023 2024 con Power BI + Python
 
 Proyecto de análisis end-to-end donde integro Power BI, Python, SQL y DAX para transformar datos operativos en insights accionables.  
 Incluye limpieza, modelado, EDA, visualizaciones ejecutivas, KPIs, análisis de cohortes y proyecciones.
