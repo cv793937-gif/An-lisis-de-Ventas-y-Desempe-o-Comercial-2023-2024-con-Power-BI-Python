@@ -83,16 +83,17 @@ README.md        → documentación principal
 **Christian** — Data Analyst Jr  
 Especializado en Power BI, Python, SQL, DAX y análisis de negocio.  
 
-### 📊 Dashboard – Vista General
-![Dashboard 1](images/Captura%20de%20pantalla%202026-06-18%20204626.png)
+<p align="center">
+  <img src="images/Captura%20de%20pantalla%202026-06-18%20204626.png" width="800">
+</p>
 
-### 📈 KPIs Principales
-![Dashboard 2](images/Captura%20de%20pantalla%202026-06-18%20204644.png)
+<p align="center">
+  <img src="images/Captura%20de%20pantalla%202026-06-18%20204644.png" width="800">
+</p>
 
-### 🧩 Detalle de Ventas
-![Dashboard 3](images/Captura%20de%20pantalla%202026-06-18%20204657.png)
-
-
+<p align="center">
+  <img src="images/Captura%20de%20pantalla%202026-06-18%20204657.png" width="800">
+</p>
 
 
 
